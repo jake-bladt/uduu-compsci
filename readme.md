@@ -15,6 +15,9 @@ Because this is entirely self-directed and not certification seeking, it's focus
 
 Because I've been a professional software developer for 20+ years, these requirements are markedly different from what a traditional college freshman would find educationally valueable.
 
+## Programming
+
+
 ## Math and underlying theory
 
 The OSSU recommendations are very math heavy and, at this point, it's not entirely clear to me whether or not they're needed for anyting I want to create. I'm sure I would benefit from a survey course at least as review of material I covered 30+ years ago. Because I want to at least survey machine learning as a field (and possibly make it my core focus,) I should have an underpinning in statistics and probability. Plenty of the problems I've addressed as a developer required an understanding of graphs, so graph theory is a must. Likewise matrix transformations and linear algebra.
@@ -25,8 +28,28 @@ On the other hand, I've encountered differential and integral calculus exactly t
 
 Math requirements:
 
-* Either UC San Diego's [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) or MIT's [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm).
+* Either UC San Diego's [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) and the other courses in Introduction to Discrete Mathematics for Computer Science Specialization or MIT's [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm).
 * Duke's [Introduction to Probabily and Data](https://www.coursera.org/learn/probability-intro)
 * Udacity's [Introduction to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 * UT's [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers), backed by [this video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * UCSD's [Intro to Graph Theory](https://www.coursera.org/learn/graphs)
+
+A lot of courses are a mixture of some theory and some systems/applications. Of the purer theory courses, I would benefit from reviewing the following:
+
+* Algorithms
+* Data Structures
+* First Principles
+* Computational Geometry
+* Debugging
+* Testing
+* Logic
+* Automata Theory
+* Formal Concept Analysis
+* Parallelism
+* Architecture & Design
+* Distributed Systems
+
+## Systems
+
+
+
