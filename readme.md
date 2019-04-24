@@ -69,3 +69,10 @@ A lot of courses are a mixture of some theory and some systems/applications. Of 
 
 
 
+## Applications
+
+
+
+## Final Practicum
+
+
