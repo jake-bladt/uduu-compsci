@@ -63,7 +63,7 @@ A lot of courses are a mixture of some theory and some systems/applications. Of 
 * Automata Theory - Stanford's [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
 * Formal Concept Analysis - National Research University Higher School of Economics' [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)
 * Parallelism - EPFL's [Parallel Programming](https://www.coursera.org/learn/parprog1)
-* Architecture & Design
+* Architecture & Design - Georgia Tech's [Software Architecutre & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 * Distributed Systems - Reliable Distributed Algorithms - [I](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), [II](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x)
 
 ## Systems & Applications
@@ -73,7 +73,7 @@ With some of these subjects, the free MOOC model may break down - in which case 
 * First Principles - Build a Modern Computer from First Principles: From Nand to Tetris Part [I](https://www.coursera.org/learn/build-a-computer) and [II](https://www.coursera.org/learn/nand2tetris2)
 * Operating Systems - [Udacity's Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) or possibly start with [Hack the Kernel](https://www.ops-class.org/) and [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * Compilers Stanford's [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) course
-* Computer Graphics
+* Computer Graphics - UC San Diego's [Computer Graphics](https://www.edx.org/course/computer-graphics)
 * Computer Networking - Stanford's [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * Databases - Stanford's [Introduction to Database Systems](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * Machine Learning - Stanford's [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning)
