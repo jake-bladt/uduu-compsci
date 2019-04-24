@@ -34,7 +34,7 @@ Based on that toolset, I expect to benefit from the following courses:
 * [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
 * [EPFL's Functional Programming in Scala](https://www.coursera.org/learn/progfun1) may be a prerequisite for the distributed systems specialization below
 * [O'Reilly's Rust Programming Learning Path](https://learning.oreilly.com/learning-paths/learning-path-learn/9781789809398/)
-* [UCI's "Programming with Google Go path](https://www.coursera.org/specializations/google-golang)
+* [UCI's "Programming with Google Go" path](https://www.coursera.org/specializations/google-golang)
 
 ## Math and underlying theory
 
