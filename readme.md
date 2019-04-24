@@ -54,7 +54,6 @@ A lot of courses are a mixture of some theory and some systems/applications. Of 
 
 * Algorithms
 * Data Structures
-* First Principles
 * Computational Geometry
 * Debugging
 * Testing
@@ -65,14 +64,22 @@ A lot of courses are a mixture of some theory and some systems/applications. Of 
 * Architecture & Design
 * Distributed Systems
 
-## Systems
+## Systems & Applications
 
+With some of these subjects, the free MOOC model may break down - in which case I'll either rely on commercial resources I have available (O'Reilly Learning and Pluralsight, primarily) or seek to accumulate enough free material in one place to simulate a directed course.
 
+* First Principles
+* Operating Systems
+* Compilers
+* Computer Graphics
+* Computer Networking
+* Databases
+* Machine Learning
+* Cryptography
+* Cloud Computing and Virtualization
+* DevOps
+* Cybersecurity
 
-## Applications
+## Capstone Project
 
-
-
-## Final Practicum
-
-
+As I go through the course material, I will be looking for an opportunity to contribute to FOSS projects and to create my own unique and useful capstone FOSS project.
