@@ -27,6 +27,7 @@ My initial toolbox starting out is:
 
 Based on that toolset, I expect to benefit from the following courses:
 
+* [Linux for Developers](https://www.coursera.org/learn/linux-for-developers) and possibly [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers)
 * [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
 * [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
 * [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
@@ -68,8 +69,8 @@ A lot of courses are a mixture of some theory and some systems/applications. Of 
 
 With some of these subjects, the free MOOC model may break down - in which case I'll either rely on commercial resources I have available (O'Reilly Learning and Pluralsight, primarily) or seek to accumulate enough free material in one place to simulate a directed course.
 
-* First Principles
-* Operating Systems
+* First Principles - Build a Modern Computer from First Principles: From Nand to Tetris Part [I](https://www.coursera.org/learn/build-a-computer) and [II](https://www.coursera.org/learn/nand2tetris2)
+* Operating Systems - [Udacity's Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) or possibly start with [Hack the Kernel](https://www.ops-class.org/) and [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * Compilers
 * Computer Graphics
 * Computer Networking
@@ -82,4 +83,4 @@ With some of these subjects, the free MOOC model may break down - in which case 
 
 ## Capstone Project
 
-As I go through the course material, I will be looking for an opportunity to contribute to FOSS projects and to create my own unique and useful capstone FOSS project.
+As I go through the course material, I will be looking for an opportunity to contribute to FOSS projects and to create my own unique and useful capstone FOSS project. It may turn out to be Uduu Project: Nimrod.
