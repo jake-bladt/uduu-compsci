@@ -55,13 +55,13 @@ Math requirements:
 A lot of courses are a mixture of some theory and some systems/applications. Of the purer theory courses, I would benefit from reviewing the following:
 
 * Algorithms - Princeton's three-course track on algorithms - [intro](https://www.classcentral.com/course/coursera-computer-science-algorithms-theory-and-machines-10671), [Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about), and [Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
-* Data Structures
-* Computational Geometry
+* Data Structures - University of Michigan's [Python Data Structures](https://www.coursera.org/learn/python-data) - prework for setting up Python may be in previous course
+* Computational Geometry Tsinghua University's [Computational Geometry](https://www.edx.org/course/ji-suan-ji-he--computational-geometry)
 * Debugging - Udacity's [Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * Testing - Udacity's [Software Testing](https://www.udacity.com/course/software-testing--cs258) and University of Texas's [LAFF](https://www.edx.org/course/laff-on-programming-for-correctness)
 * Logic - Standford's [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) - may require pre-work in Set Theory
-* Automata Theory
-* Formal Concept Analysis
+* Automata Theory - Stanford's [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
+* Formal Concept Analysis - National Research University Higher School of Economics' [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)
 * Parallelism - EPFL's [Parallel Programming](https://www.coursera.org/learn/parprog1)
 * Architecture & Design
 * Distributed Systems - Reliable Distributed Algorithms - [I](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), [II](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x)
