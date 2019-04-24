@@ -32,6 +32,7 @@ Based on that toolset, I expect to benefit from the following courses:
 * [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
 * [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
 * [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
+* [EPFL's Functional Programming in Scala](https://www.coursera.org/learn/progfun1) may be a prerequisite for the distributed systems specialization below
 * [O'Reilly's Rust Programming Learning Path](https://learning.oreilly.com/learning-paths/learning-path-learn/9781789809398/)
 * [UCI's "Programming with Google Go path](https://www.coursera.org/specializations/google-golang)
 
@@ -53,17 +54,17 @@ Math requirements:
 
 A lot of courses are a mixture of some theory and some systems/applications. Of the purer theory courses, I would benefit from reviewing the following:
 
-* Algorithms
+* Algorithms - Princeton's three-course track on algorithms - [intro](https://www.classcentral.com/course/coursera-computer-science-algorithms-theory-and-machines-10671), [Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about), and [Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 * Data Structures
 * Computational Geometry
-* Debugging
-* Testing
-* Logic
+* Debugging - Udacity's [Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* Testing - Udacity's [Software Testing](https://www.udacity.com/course/software-testing--cs258) and University of Texas's [LAFF](https://www.edx.org/course/laff-on-programming-for-correctness)
+* Logic - Standford's [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) - may require pre-work in Set Theory
 * Automata Theory
 * Formal Concept Analysis
-* Parallelism
+* Parallelism - EPFL's [Parallel Programming](https://www.coursera.org/learn/parprog1)
 * Architecture & Design
-* Distributed Systems
+* Distributed Systems - Reliable Distributed Algorithms - [I](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), [II](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x)
 
 ## Systems & Applications
 
@@ -71,15 +72,15 @@ With some of these subjects, the free MOOC model may break down - in which case 
 
 * First Principles - Build a Modern Computer from First Principles: From Nand to Tetris Part [I](https://www.coursera.org/learn/build-a-computer) and [II](https://www.coursera.org/learn/nand2tetris2)
 * Operating Systems - [Udacity's Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) or possibly start with [Hack the Kernel](https://www.ops-class.org/) and [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* Compilers
+* Compilers Stanford's [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) course
 * Computer Graphics
-* Computer Networking
-* Databases
-* Machine Learning
-* Cryptography
+* Computer Networking - Stanford's [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+* Databases - Stanford's [Introduction to Database Systems](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* Machine Learning - Stanford's [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Cryptography - Standford's [Cryptography I](https://www.coursera.org/learn/crypto)
 * Cloud Computing and Virtualization
 * DevOps
-* Cybersecurity
+* Cybersecurity - [Enterprise System Management and Security](https://www.coursera.org/learn/enterprise-system-management-security) and possibly the courses that follow on that track
 
 ## Capstone Project
 
