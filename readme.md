@@ -17,6 +17,22 @@ Because I've been a professional software developer for 20+ years, these require
 
 ## Programming
 
+While programming isn't the first subject in computer science, most CS subjects are explored through programming and a well-stocked programming toolbox is essential to understanding the concepts, theory, and applications of computer science. As such, I'd like to have at least one object-oriented language, one functional language, and one language for system programming. These will be used to create scripts, engines, libraries, web applications, and low-level tools.
+
+My initial toolbox starting out is:
+
+* Comfortable and familiar languages, ideal for hashing out complex ideas and prototyping: C#, JavaScript
+* Languages I've used, faster to get up to speed with than starting at the ground floor: Python, Ruby, Java, Clojure, C/C++, Common LISP
+* Languages I've never used, but would find valuable to know: Rust, Go, Haskell, F#, OCaml
+
+Based on that toolset, I expect to benefit from the following courses:
+
+* [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
+* [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
+* [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
+* [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
+* [O'Reilly's Rust Programming Learning Path](https://learning.oreilly.com/learning-paths/learning-path-learn/9781789809398/)
+* [UCI's "Programming with Google Go path](https://www.coursera.org/specializations/google-golang)
 
 ## Math and underlying theory
 
